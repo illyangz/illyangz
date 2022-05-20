@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @illyangz
 - 👀 I’m interested in collaborating with a team to build and generate grounding ideas that will further build on my experience and resume.
-- 🌱 I’m currently learning ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ... 
+- 📫 How to reach me ... hmango77@gmail.com
 
 <!---
 Some of the things I've worked on, 
