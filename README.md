@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @illyangz
+- 👀 I’m interested in collaborating with a team to build and generate grounding ideas that will further build on my experience and resume.
+- 🌱 I’m currently learning ...
+- 📫 How to reach me ...
+
+<!---
+Some of the things I've worked on, 
+https://scottmcclintocklaw.com/ 
+https://meksonmain.com/
+https://plasticpalletpros.com/
+https://theclub41.com/
+--->
