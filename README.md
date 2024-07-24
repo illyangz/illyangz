@@ -1,18 +1,11 @@
-- 👋 Hi, I’m @illyangz
-- 👀 I’m interested in collaborating with a team to build and generate grounding ideas that will further build on my experience and resume.
-- 🌱 I’m currently sculpting my skills in nextjs  ... 
-- 📫 How to reach me ... hmango77@gmail.com
-
-### Hi there 👋, I'm Kunalan Kevin Subagaran
+### Hi there 👋, I'm Hassan Mango or illyangz :)
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-mango/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmango77@gmail.com)
 
-![Hassan's GitHub overview](https://github.com/illyangz/illyangz/blob/main/generated/overview.svg)
-
 ### About Me 👦
 
-- 🌱 I’m currently learning: Rust.
+- 🌱 I’m currently sculpting my skills in nextjs  ... 
 - 👯 I’m looking to collaborate on: Anything cool!
 - 📫 How to reach me: hmango77@gmail.com
 - 😄 Pronouns: he/him
