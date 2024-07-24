@@ -5,10 +5,7 @@
 
 ### About Me 👦
 
-- 🌱 I’m currently sculpting my skills in nextjs  ... 
-- 👯 I’m looking to collaborate on: Anything cool!
-- 📫 How to reach me: hmango77@gmail.com
-- 😄 Pronouns: he/him
+Presently, I'm iterating in a nascent industry with a shrewd team at the intersection of finance & permissionless systems. Previously, I built a startup agency 'Digify', sold a soccer course, & grew orgs at-scale before graduating and investing in Web3.
 
 ### Technologies 👨‍💻
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
