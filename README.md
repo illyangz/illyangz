@@ -24,7 +24,6 @@ Presently, I'm iterating in a nascent industry with a shrewd team at the interse
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-E10098?style=for-the-badge&logo=tailwind&logoColor=white)  
 
 
 ### Back End Development
