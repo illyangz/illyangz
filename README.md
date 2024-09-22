@@ -3,6 +3,10 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-mango/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmango77@gmail.com)
 
+<h3 align="center">A full stack Web Developer and DevOps learner from Italy & Jordan</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=illyangz&label=Profile%20views&color=0e75b6&style=flat" alt="illyangz" /> </p>
+
 ### About Me 👦
 
 Presently, I'm iterating in a nascent industry with a shrewd team at the intersection of finance & permissionless systems, while also building a startup agency 'Digify'. Before graduating, I sold a soccer course, & grew orgs at-scale before getting my minor in Finance and a BSC in Computer Science that inspired me to start investing in Web3.
