@@ -11,10 +11,6 @@
 
 Presently, I'm iterating in a nascent industry with a shrewd team at the intersection of finance & permissionless systems, while also building a startup agency 'Digify'. Before graduating, I sold a soccer course, & grew orgs at-scale before getting my minor in Finance and a BSC in Computer Science that inspired me to start investing in Web3.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=illyangz&show_icons=true&locale=en&layout=compact" alt="illyangz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=illyangz&show_icons=true&locale=en" alt="illyangz" /></p>
-
 ### Front End Development
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -59,3 +55,9 @@ Presently, I'm iterating in a nascent industry with a shrewd team at the interse
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![](https://img.shields.io/badge/-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=illyangz&show_icons=true&locale=en&layout=compact" alt="illyangz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=illyangz&show_icons=true&locale=en" alt="illyangz" /></p>
+
