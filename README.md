@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-mango/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmango77@gmail.com)
 
-<h3 align="center">A full stack Web Developer and DevOps learner from Italy & Jordan</h3>
+<h3> A full stack Web Developer and DevOps learner from Italy & Jordan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=illyangz&label=Profile%20views&color=0e75b6&style=flat" alt="illyangz" /> </p>
 
