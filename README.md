@@ -1,7 +1,4 @@
-### Hi there 👋, I'm Hassan Mango or illyangz :)
-
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-mango/)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmango77@gmail.com)
+### Hi there 👋, I'm illyangz :)
 
 <h3> A full stack Web Developer and DevOps learner from Italy & Jordan</h3>
 
