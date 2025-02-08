@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm illyangz :)
 
-<h3> A full stack Web Developer and DevOps learner from Italy & Jordan</h3>
+<h3> Software Engineer from Italy & Jordan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=illyangz&label=Profile%20views&color=0e75b6&style=flat" alt="illyangz" /> </p>
 
